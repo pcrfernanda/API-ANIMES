@@ -1,0 +1,103 @@
+body {
+  background: rgb(19,19,19);
+  background: linear-gradient(180deg, rgba(19,19,19,1) 33%, rgba(70,70,70,1) 95%, rgba(81,81,81,1) 100%);
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.cards {
+  display: grid;
+  gap: 50px;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 15px 5px;
+}
+
+.cards div {
+  background-color: #68269C;
+  box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.411);
+}
+
+div button {
+  color: white;
+  background-color: #131313;
+}
+
+div button:hover{
+  color: rgba(255, 255, 255, 0.452);
+}
+
+.titulos {
+  padding-bottom: 70px;
+  gap: 15vh;
+  justify-content: center;
+  display: flex;
+}
+
+.card-dentro p{
+  margin: 3px;
+}
+
+.card-dentro {
+  overflow: hidden;
+  width: 30vh;
+  border-radius: 10px;
+}
+
+.bottom {
+  padding-bottom: 25px;
+}
+
+.card-edit {
+  overflow: hidden;
+  width: 30vh;
+  height: 20vh;
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  width: 30vh;
+  height: 23vh;
+}
+

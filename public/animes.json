@@ -1,0 +1,487 @@
+[
+  {
+    "id": 1,
+    "title": "Naruto",
+    "type": "Series",
+    "year": "2002",
+    "episodes": "220",
+    "genre": "Action, Adventure, Fantasy",
+    "image": "Naruto.jpg"
+  },
+  {
+    "id": 2,
+    "title": "One Piece",
+    "type": "Series",
+    "year": "1999",
+    "episodes": "1071",
+    "genre": "Action, Adventure, Fantasy",
+    "image": "onepiece.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Attack on Titan",
+    "type": "Series",
+    "year": "2013",
+    "episodes": "88",
+    "genre": "Action, Drama, Fantasy",
+    "image": "attackontitan.jpg"
+  },
+  {
+    "id": 4,
+    "title": "My Neighbor Totoro",
+    "type": "Movie",
+    "year": "1988",
+    "duration": "86 min",
+    "genre": "Adventure, Fantasy, Family",
+    "image": "totoro.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Spirited Away",
+    "type": "Movie",
+    "year": "2001",
+    "duration": "125 min",
+    "genre": "Adventure, Fantasy, Mystery",
+    "image": "chihiro.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Death Note",
+    "type": "Series",
+    "year": "2006",
+    "episodes": "37",
+    "genre": "Mystery, Supernatural, Thriller",
+    "image": "death note.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "type": "Series",
+    "year": "2009",
+    "episodes": "64",
+    "genre": "Action, Adventure, Drama",
+    "image": "fullmetal.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Cowboy Bebop",
+    "type": "Series",
+    "year": "1998",
+    "episodes": "26",
+    "genre": "Action, Adventure, Sci-Fi",
+    "image": "cowboybebop.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Neon Genesis Evangelion",
+    "type": "Series",
+    "year": "1995",
+    "episodes": "26",
+    "genre": "Action, Drama, Mecha",
+    "image": "evangelion.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Dragon Ball Z",
+    "type": "Series",
+    "year": "1989",
+    "episodes": "291",
+    "genre": "Action, Adventure, Fantasy",
+    "image": "dragonball.png"
+  },
+  {
+    "id": 11,
+    "title": "Howl’s",
+    "type": "Movie",
+    "year": "2004",
+    "duration": "119 min",
+    "genre": "Adventure, Fantasy, Romance",
+    "image": "Howls.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Your Name",
+    "type": "Movie",
+    "year": "2016",
+    "duration": "106 min",
+    "genre": "Drama, Fantasy, Romance",
+    "image": "yourname.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Akira",
+    "type": "Movie",
+    "year": "1988",
+    "duration": "124 min",
+    "genre": "Action, Sci-Fi, Thriller",
+    "image": "Akira.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "type": "Series",
+    "year": "2019",
+    "episodes": "26",
+    "genre": "Action, Adventure, Fantasy",
+    "image": "DemonSlayer.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Mob Psycho 100",
+    "type": "Series",
+    "year": "2016",
+    "episodes": "25",
+    "genre": "Action, Comedy, Supernatural",
+    "image": "MobPsycho100.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Sword Art Online",
+    "type": "Series",
+    "year": "2012",
+    "episodes": "96",
+    "genre": "Action, Adventure, Fantasy",
+    "image": "SwordArtOnline.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Ponyo",
+    "type": "Movie",
+    "year": "2008",
+    "duration": "101 min",
+    "genre": "Adventure, Fantasy, Family",
+    "image": "Ponyo.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Bleach",
+    "type": "Series",
+    "year": "2004",
+    "episodes": "366",
+    "genre": "Action, Adventure, Supernatural",
+    "image": "Bleach.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Gintama",
+    "type": "Series",
+    "year": "2006",
+    "episodes": "367",
+    "genre": "Action, Comedy, Parody",
+    "image": "Gintama.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Made in Abyss",
+    "type": "Series",
+    "year": "2017",
+    "episodes": "13",
+    "genre": "Adventure, Drama, Fantasy",
+    "image": "MadeinAbyss.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Jujutsu Kaisen",
+    "type": "Series",
+    "year": "2020",
+    "episodes": "24",
+    "genre": "Action, Supernatural, Dark Fantasy",
+    "image": "jujutsukaisen.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Chainsaw Man",
+    "type": "Series",
+    "year": "2022",
+    "episodes": "12",
+    "genre": "Action, Horror, Dark Fantasy",
+    "image": "Chainsaw Man.jpg"
+  },
+  {
+    "id": 23,
+    "title": "The Rising of the Shield Hero",
+    "type": "Series",
+    "year": "2019",
+    "episodes": 25,
+    "genre": "Action, Adventure, Fantasy",
+    "image": "evangelion.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Tokyo Revengers",
+    "type": "Series",
+    "year": "2021",
+    "episodes": "24",
+    "genre": "Action, Drama, Supernatural",
+    "image": "TokyoRevengers.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Vinland Saga",
+    "type": "Series",
+    "year": "2019",
+    "episodes": "24",
+    "genre": "Action, Adventure, Historical",
+    "image": "Vinland Saga.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Spy x Family",
+    "type": "Series",
+    "year": "2022",
+    "episodes": "25",
+    "genre": "Action, Comedy, Spy",
+    "image": "SpyxFamily.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Kubo Won’t Let Me Be Invisible",
+    "type": "Series",
+    "year": "2023",
+    "episodes": "12",
+    "genre": "Romance, Comedy, Supernatural",
+    "image": "KuboWont.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Hells Paradise",
+    "type": "Series",
+    "year": "2023",
+    "episodes": "12",
+    "genre": "Action, Dark Fantasy, Adventure",
+    "image": "HellsParadise.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Blue Lock",
+    "type": "Series",
+    "year": "2022",
+    "episodes": "24",
+    "genre": "Sports, Drama",
+    "image": "Blue Lock.jpg"
+  },
+  {
+    "id": 30,
+    "title": "Oshi no Ko",
+    "type": "Series",
+    "year": "2023",
+    "episodes": "11",
+    "genre": "Drama, Mystery, Music",
+    "image": "OshinoKo.jpg"
+  },
+  {
+    "id": 31,
+    "title": "Dungeon Meshi",
+    "type": "Manga",
+    "year": "2014",
+    "genre": "Action, Adventure, Fantasy, Culinária",
+    "image": "DungeonMeshi.jpg"
+  },
+  {
+    "id": 32,
+    "title": "Watashi no Shiawase na Kekkon",
+    "type": "Series",
+    "year": "2023",
+    "episodes": "12",
+    "genre": "Drama, Romance",
+    "image": "Watashi.jpg"
+  },
+  {
+    "id": 33,
+    "title": "Princess Mononoke",
+    "type": "Movie",
+    "year": "1997",
+    "duration": "134 min",
+    "genre": "Action, Adventure, Fantasy",
+    "image": "PrincessMononoke.jpg"
+  },
+  {
+    "id": 34,
+    "title": "Kiki’s Delivery Service",
+    "type": "Movie",
+    "year": "1989",
+    "duration": "103 min",
+    "genre": "Adventure, Fantasy, Family",
+    "image": "KikisDeliveryService.jpg"
+  },
+  {
+    "id": 35,
+    "title": "Nausicaä of the Valley of the Wind",
+    "type": "Movie",
+    "year": "1984",
+    "duration": "117 min",
+    "genre": "Adventure, Fantasy, Sci-Fi",
+    "image": "Nausicaä.jpg"
+  },
+  {
+    "id": 36,
+    "title": "Castle in the Sky",
+    "type": "Movie",
+    "year": "1986",
+    "duration": "124 min",
+    "genre": "Adventure, Fantasy, Action",
+    "image": "Castle in the Sky.jpg"
+  },
+  {
+    "id": 37,
+    "title": "The Boy and the Heron",
+    "type": "Movie",
+    "year": "2023",
+    "duration": "123 min",
+    "genre": "Adventure, Fantasy, Drama",
+    "image": "TheBoy.jpg"
+  },
+  {
+    "id": 38,
+    "title": "Little",
+    "type": "Series",
+    "year": "2017",
+    "episodes": "25",
+    "genre": "Action, Adventure, Fantasy",
+    "image": "Little.jpg"
+  },
+  {
+    "id": 39,
+    "title": "Dr.Stone",
+    "type": "Series",
+    "year": "2019",
+    "episodes": "35",
+    "genre": "Adventure, Sci-Fi",
+    "image": "Dr.Stone.jpg"
+  },
+  {
+    "id": 40,
+    "title": "Kimini Todoke",
+    "type": "Series",
+    "year": "2009",
+    "episodes": "25",
+    "genre": "Romance, Slice of Life",
+    "image": "KiminiTodoke.jpg"
+  },
+  {
+    "id": 41,
+    "title": "Inuyasha",
+    "type": "Series",
+    "year": "2000",
+    "episodes": "167",
+    "genre": "Action, Adventure, Fantasy",
+    "image": "Inuyasha.jpg"
+  },
+  {
+    "id": 42,
+    "title": "Suzume",
+    "type": "Movie",
+    "year": "2022",
+    "duration": "120 min",
+    "genre": "Drama, Fantasy, Romance",
+    "image": "Suzume.jpg"
+  },
+  {
+    "id": 43,
+    "title": "One Punch Man",
+    "type": "Series",
+    "year": "2015",
+    "episodes": "24",
+    "genre": "Action, Comedy, Superhero",
+    "image": "OnePunchMan.jpg"
+  },
+  {
+    "id": 44,
+    "title": "Violet Evergarden",
+    "type": "Series",
+    "year": "2018",
+    "episodes": "13",
+    "genre": "Drama, Fantasy, Slice of Life",
+    "image": "VioletEvergarden.jpg"
+  },
+  {
+    "id": 45,
+    "title": "Zom 100: Bucket List of the Dead",
+    "type": "Series",
+    "year": "2023",
+    "episodes": "12",
+    "genre": "Action, Comedy, Horror",
+    "image": "Zom100.jpg"
+  },
+  {
+    "id": 46,
+    "title": "Gokushufudoul: Tatsu Immortal",
+    "type": "Series",
+    "year": "2021",
+    "episodes": "10",
+    "genre": "Comedy, Slice of Life",
+    "image": "Gokushufudoul.jpg"
+  },
+  {
+    "id": 47,
+    "title": "The Ancient Magus’ Bride",
+    "type": "Series",
+    "year": "2017",
+    "episodes": "24",
+    "genre": "Fantasy, Romance, Drama",
+    "image": "The Ancient Magus Bride.jpg"
+  },
+  {
+    "id": 48,
+    "title": "Clean Freak! Aoyama kun",
+    "type": "Series",
+    "year": "2017",
+    "episodes": "12",
+    "genre": "Comedy, Slice of Life",
+    "image": "Clean Freak! Aoyama kun.jpg"
+  },
+  {
+    "id": 49,
+    "title": "KamisamaHajimemashita",
+    "type": "Series",
+    "year": "2012",
+    "episodes": "13",
+    "genre": "Comedy, Fantasy, Romance",
+    "image": "KamisamaHajimemashita.jpg"
+  },
+  {
+    "id": 50,
+    "title": "ASignofAffection",
+    "type": "Series",
+    "year": "2023",
+    "episodes": "12",
+    "genre": "Romance, Drama",
+    "image": "ASignofAffection.jpg"
+  },
+  {
+    "id": 51,
+    "title": "Horimiya",
+    "type": "Series",
+    "year": "2021",
+    "episodes": "13",
+    "genre": "Romance, Comedy, Slice of Life",
+    "image": "Horimiya.jpg"
+  },
+  {
+    "id": 52,
+    "title": "Kotoura-san",
+    "type": "Series",
+    "year": "2013",
+    "episodes": "12",
+    "genre": "Comedy, Drama, Romance",
+    "image": "Kotoura-san.jpg"
+  },
+  {
+    "id": 53,
+    "title": "Assassination Classroom",
+    "type": "Series",
+    "year": "2015",
+    "episodes": "47",
+    "genre": "Action, Comedy, Drama",
+    "image": "AssassinationClassroom.jpg"
+  },
+  {
+    "id": 54,
+    "title": "Mashle",
+    "type": "Series",
+    "year": "2023",
+    "episodes": "12",
+    "genre": "Action, Comedy, Fantasy",
+    "image": "Mashle.jpg"
+  }
+]
